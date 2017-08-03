@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SeekRet</string>
+    <string name="max_msg_length">messageLength</string>
+    <string name="Global_room_chat">Global</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="SIGNED_IN">Signed in</string>
+    <string name="CANT_SIGN_IN">We Couldnt sign you in, Please try again later</string>
+    <string name="data">data</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="chatrooms">Chat Rooms</string>
+    <string name="title">Title</string>
+    <string name="receivedMsg">Received a Message from</string>
+    <string name="conversationsRef">Conversations</string>
+    <string name="GlobalConvRef">Global</string>
+    <string name="PrivateConvRef">PrivateRooms</string>
+    <string name="UserListRef">Users</string>
+    <string name="chatPhotosRef">chatPhotos</string>
+    <string name="usersProfilePicsRef">users_ProfilePictures</string>
+    <string name="joinRoom">Join Room</string>
+    <string name="Uploading">Uploading</string>
+    <string name="percentage">%</string>
+    <string name="profilePhotoUrl">profilePhotoUrl</string>
+    <string name="SignedOut">Signed Out.</string>
+    <string name="notificsRequests">notificationRequests</string>
+    <string name="username">username</string>
+    <string name="message">message</string>
+    <string name="userOpenedAchatwithU">Just Opened a Chat with You</string>
+    <string name="reqCode">reqCode</string>
+    <string name="photoExtension">.jpeg</string>
+    <string name="image">Image</string>
+    <string name="Error_saving_selfie">Error saving selfie</string>
+</resources>

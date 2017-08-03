@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item android:title="Join Room"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_joinroomcircle"
+        android:id="@+id/joinRoom" />
+
+    <item android:title="Global Room"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_globalroomicon"
+        android:id="@+id/globalRoomMenuItem" />
+
+    <item android:title="Chat Rooms"
+        app:showAsAction="never"
+        android:id="@+id/chooseOpenRoom" />
+
+    <item android:title="Set Profile Picture"
+        app:showAsAction="never"
+        android:id="@+id/setProfilePic" />
+
+    <item android:title="Sign Out"
+        app:showAsAction="never"
+        android:icon="@drawable/common_full_open_on_phone"
+        android:id="@+id/menu_sign_out" />
+</menu>

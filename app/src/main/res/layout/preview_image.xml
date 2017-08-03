@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ImageView
+        android:id="@+id/iv_preview_image"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+
+        android:scaleType="fitCenter" />
+
+
+    <Button
+        android:id="@+id/btnIvClose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignTop="@+id/iv_preview_image"
+        android:layout_marginRight="22dp"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/com_facebook_tooltip_blue_xout"
+        android:elevation="0dp" />
+
+</RelativeLayout>
